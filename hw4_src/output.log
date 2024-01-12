@@ -1,0 +1,6 @@
+[#CLIENT#] INFO: CS350 Client Version 3.0
+[#CLIENT#] INFO: setting client port as: 2222
+[#CLIENT#] INFO: setting distribution: 0
+[#CLIENT#] INFO: Initiating connection...
+Runtime error at client.c:389
+[#CLIENT#] Unable to initiate connection.: Connection refused
